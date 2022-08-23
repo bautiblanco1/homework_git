@@ -1,0 +1,12 @@
+En Terminal utilizar:
+ls --> para mostrar lista de archivos
+cd --> para mover a la carpeta/archivo
+Mkdir —> para crear una nueva carpeta
+Touch—> para crear un archivo
+Rm -> para borrar un archivo
+Git init -> para inicializar nuevo repositorio
+Git clone (url) para clonar utilizando una dirección
+Git status -> para ver los cambios dentro de git
+Git add -> para agregar el archivo modificado en el historial de git
+Git commit -> para guardar el archivo del historial
+Git push -> para compartir los archivos locales con GitHub	
